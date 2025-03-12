@@ -8,3 +8,9 @@
 .logo img{
     width: 50px;
 }
+nav.navbar button.navbar-toggler, nav.navbar button.navbar-toggler:focus{
+    box-shadow: none;
+}
+.no-wrap{
+    white-space: nowrap;
+}
